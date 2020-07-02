@@ -1,11 +1,29 @@
 # Website Jogatar
 
-## Nosso prototipo
-https://www.figma.com/file/dcRsAYEJnYWQ5HGYIJjxJf/Portifolio?node-id=0%3A1
+Seja bem vindo, participante do Jogatar. A ideia desse projeto é criarmos um sites simples, para compartilharmos todos os projetos desenvolvidos durante a #ImersaoGameDev, da Alura.
 
-## Comandos úteis
+## O Rascunho do Site
 
-Pra você, participante do Jogatar, que acabou de clonar o projeto, seguem alguns comandos úteis:
+O protótipo do site pode ser encontrado em [https://www.figma.com/file/dcRsAYEJnYWQ5HGYIJjxJf/Portifolio?node-id=0%3A1](https://www.figma.com/file/dcRsAYEJnYWQ5HGYIJjxJf/Portifolio?node-id=0%3A1).
+
+O site, inicialmente, terá a seguinte estrutura:
+
+![Estrutura do Site](_site/assets/images/estrutura.jpg)
+
+## O ambiente
+
+Para trabalhar nesse projeto, você precisa de 3 coisas:
+
+* Uma conta no Github e o git instalado na sua máquina
+* Um bom editor de texto (sugestão: VS Code, Atom ou Sublime)
+* O Docker instalado na sua máquina
+
+## Montando o ambiente
+
+Uma vez que os requisitos tenham sido instalados, siga os seguintes passos:
+
+1. clone o projeto
+2. execute os comandos abaixo
 
 ### 1. Construção da imagem
 
