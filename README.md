@@ -8,7 +8,7 @@ O protótipo do site pode ser encontrado em [https://www.figma.com/file/dcRsAYEJ
 
 O site, inicialmente, terá a seguinte estrutura:
 
-![Estrutura do Site](_site/assets/images/estrutura.jpg)
+![Estrutura do Site](https://github.com/Jogatar/jogatar-site/blob/master/assets/images/estrutura.jpg)
 
 ## O ambiente
 
